@@ -2,7 +2,7 @@
 
 ## Project Collaborators
 - [Drishti Vashisth](https://github.com/drishti0907)
-- [Dhavnish Samanta](https://github.com/Dhvaniish)
+- [Dhvanish Samanta](https://github.com/Dhvaniish)
 - [Vansh Yadav](https://github.com/Vnshydv24)
 - [Kunal Bhatia](https://github.com/Kunalkbhatia)
 
